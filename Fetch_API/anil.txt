@@ -1,0 +1,3 @@
+hi this is ajax
+i am having very much fun
+i am very much interested in java script
