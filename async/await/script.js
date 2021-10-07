@@ -7,7 +7,7 @@ async function Anil() {
   console.log("i am inside Anil function2");
   const users = await response.json();
   return users;
-  return response;
+  //   return response;
 }
 
 console.log("i am before calling function");
